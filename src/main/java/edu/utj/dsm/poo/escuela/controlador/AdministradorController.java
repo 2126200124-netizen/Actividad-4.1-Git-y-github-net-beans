@@ -87,3 +87,5 @@ public class AdministradorController extends FormularioBase<administrador> {
         cmbEstatus.setValue(null);
     }
 }
+
+//Commit en rama secundaria: agregado comentario de prueba
